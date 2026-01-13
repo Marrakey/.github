@@ -1,3 +1,3 @@
 # Marrakey
 
-A securre, clean and a FOSS alternatiive, to discord.
+A secure, clean and a FOSS alternatiive, to discord.
